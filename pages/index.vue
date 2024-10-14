@@ -495,6 +495,7 @@ main{
   width: 100%;
   height: 100%;
   margin: auto;
+  overflow-x: hidden;
 }
 
 main > .inner{
