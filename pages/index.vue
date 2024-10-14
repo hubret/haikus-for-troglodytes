@@ -540,7 +540,7 @@ main > .inner{
 }
 
 .word.selected{
-  background: url('checkmark.svg') no-repeat center / 110% 110%, linear-gradient(to right, var(--team-color), var(--team-color));
+  background: url('/checkmark.svg') no-repeat center / 110% 110%, linear-gradient(to right, var(--team-color), var(--team-color));
   color: black;
 }
 
