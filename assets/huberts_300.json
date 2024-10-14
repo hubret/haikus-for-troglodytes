@@ -290,11 +290,13 @@
   ["pants", "cargo pants"],
   ["morning", "morning person"],
   ["bottle", "bottle rocket"],
-  ["bacon", "bacon], bacon], bacon!!!"],
+  ["bacon", "bacon, bacon, bacon!!!"],
   ["cheese", "grilled cheese"],
   ["dead", "dead weight"],
   ["name", "nickname"],
   ["pole", "pole vault"],
   ["pillow", "pillow talk"],
-  ["pack", "six pack"]
+  ["pack", "six pack"],
+  ["sign", "sign up"],
+  ["mushroom", "cream of mushroom"]
 ]
