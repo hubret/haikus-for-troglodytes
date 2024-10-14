@@ -70,6 +70,7 @@ const switchTeam = () => {
 const confirmSwitch = () => {
   currentTeam.value = currentTeam.value == 'a' ? 'b' : 'a'
   view.value = 'game'
+  cardsSelected.value = [false, false]
   mulligan()
 }
 
