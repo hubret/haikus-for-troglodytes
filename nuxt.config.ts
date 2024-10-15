@@ -28,6 +28,7 @@ export default defineNuxtConfig({
       description: 'A game for cave dwellers',
       background_color: '#000000',
       theme_color: '#000000',
+      orientation: 'portrait',
       icons: [
         {
           src: "pwa-192x192.png",
