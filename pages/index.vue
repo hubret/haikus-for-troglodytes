@@ -249,7 +249,7 @@ const locked = ref(false)
         </h1>
         <p>
           Game by hubret based on <em>Poetry for Neanderthals</em><br>
-          <a href="">source code</a>
+          <a href="https://github.com/hubret/haikus-for-troglodytes">source code</a>
         </p>
         <h2>
           Setup
